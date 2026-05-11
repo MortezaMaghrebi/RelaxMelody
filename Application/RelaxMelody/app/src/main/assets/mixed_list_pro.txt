@@ -1,0 +1,230 @@
+m,0,arcticMix,1,ماجرای قطب شمال,assets/covers/arctic_ice_landscape.jpg,1800,سفر به سرزمین یخ\u200Cها
+~~
+s,باد,wind2,25,0,120,true
+s,نهنگ,whale,36,70,110,true
+s,پناهگاه,sg_sanctuary,70,0,900,false
+s,نوازش فرشته ای,dg_an_angles_caress,80,60,900,false
+s,رهروی در سرزمین خواب,dg_drifting_in_dreamland,75,60,900,false
+s,آکوا,kitaro_aqua,70,90,900,false
+s,امواج شفاف,Alpha_Lucid_Waves,35,100,1800,true
+
+#
+m,0,singleTreeMix,2,تک درخت,assets/covers/single_tree_in_bliss.jpg,1800,دویدن در چمنزار
+~~
+s,کوی,kitaro_koi,30,10,240,true
+s,پرندگان پاییزی,birds_autumn,15,0,50,true
+s,بلبل,bulbul,3,0,30,true
+s,نیمه شب نیلی,dg_midnight_blue,100,240,900,false
+s,آداجیو,sg_adagio,35,250,900,false
+s,آکوا,kitaro_aqua,30,270,900,false
+s,پاییز,brian_autumn,30,290,900,false
+s,تمرکز آلفا ۱,Alpha_Focus_107_115Hz,15,0,1200,true
+#
+m,0,beachMix,3,ساحل آرام,assets/covers/beach_sea_coast_sunset.jpg,1800,ترکیبی آرامش\u200Cبخش از صدای دریا و مرغان دریایی
+~~
+s,دریای آرام,sea_calm,0,30,0,180,true
+s,مرغ دریایی,seagull,10,30,60,false
+s,باد,wind,10,20,40,true
+s,جاده ابریشم,kitaro_silk_road,100,5,1800,false
+s,کاروانسرا,kitaro_caravansary,100,30,1800,false
+s,باغ مخفی,sg_secret_garden,100,50,1800,false
+s,امواج شفاف,Alpha_Lucid_Waves,7,0,180,true
+#
+m,0,darkSeaMix,4,دریای تاریک و طوفانی,assets/covers/dark_thunder_sea.jpg,1800,ترکیبی از دریای طوفانی، رعد و برق و موسیقی کاروان
+~~
+s,زیر آب,under_water,40,0,10,true
+s,نهنگ,whale,100,0,30,true
+s,رعد و برق,thunder,80,5,10,false
+s,رعد و برق,thunder,70,10,30,false
+s,رعد و برق,thunder,80,50,70,false
+s,رعد و برق,thunder,70,120,140,false
+s,رعد و برق,thunder,70,190,240,false
+s,دریای شب,sea_night,70,30,60,true
+s,کاروان,kitaro_caravan,100,10,1800,false
+s,شب طوفانی,sg_stormy_night,90,40,1800,false
+s,امواج شفاف,Alpha_Lucid_Waves,25,0,1800,true
+#
+m,0,forestMix,5,جنگل بارانی,assets/covers/forest_trees_green_nature.jpg,1800,تجربه جنگل در یک روز بارانی با امواج و موسیقی آرامش\u200Cبخش
+~~
+s,جنگل,forest,5,0,30,true
+s,باران,rain,15,0,1800,true
+s,پرنده,bird,10,60,400,false
+s,پرنده ها,birds,10,40,100,false
+s,رعد و برق,thunder,15,120,180,false
+s,بهار,brian_spring,100,20,1800,false
+s,رهروی در سرزمین خواب,dg_drifting_in_dreamland,100,40,900,false
+s,شب طوفانی,sg_stormy_night,60,50,1800,false
+s,نوازش فرشته ای,dg_an_angles_caress,70,60,600,false
+s,آلفا شفاف,Alpha_Lucid_Waves,15,0,1800,true
+s,آلفا مدیتیشن,Alpha_Meditation,15,60,1800,true
+s,مانترا آلفا_تتا,Mantra_Alpha_Theta,15,120,1800,true
+#
+m,0,mountainMix,6,کوهستان مه آلود,assets/covers/mountain_peak_fog.jpg,1800,صدای طبیعت بکر کوهستان
+~~
+s,باد,wind,45,0,1800,true
+s,آب کوهستان,water_cascade_down_rock,10,20,1780,true
+s,پرنده,bird,25,90,350,false
+s,زمستان,brian_winter,50,0,1800,false
+s,بهار,brian_spring,50,0,1800,false
+s,باد,brian_wind,50,0,1800,false
+#
+m,0,lakeMix,7,دریاچه آرام,assets/covers/lake_reflection_water.jpg,1800,انعکاس آرامش در آب\u200Cهای دریاچه
+~~
+s,آب کوهستان,water_cascade_down_rock,10,20,1780,true
+s,قورباغه,frog,35,45,180,false
+s,جیرجیرک,cricket,30,90,240,true
+s,آب روان,dg_water_flow,30,0,300,false
+s,رقص پروانه,yanni_butterfly_dance,45,0,120,false
+s,رویاباف,ai_dream_weaver,60,120,1800,false
+s,فلیتسا,yanni_felitsa,50,130,1800,false
+#
+m,0,waterfallMix,8,آبشار خروشان,assets/covers/waterfall_river_nature.jpg,1800,انرژی بخش و نشاط آور
+~~
+s,آبشار,waterfall,65,0,1800,true
+s,آب کوهستان,water_cascade_down_rock,10,20,1780,true
+s,پرنده,bird,30,45,200,false
+s,سرود امید,sg_hymn_to_hope,0,50,0,1800,false
+s,موج های سبز,sg_greenwaves,0,50,0,1800,false
+s,دوئت,sg_duo,0,50,0,1800,false
+#
+m,0,divingStoryMix,9,ماجرای غواصی,assets/covers/scuba_diving_ocean.jpg,1800,سفر به اعماق اقیانوس
+~~
+s,باد ملایم,gentle_wind,10,0,15,true
+s,امواج دریا,sea_waves,10,15,30,true
+s,امواج آرام دریا,sea_waves_calm2,10,30,50,true
+s,زیر آب,under_water,60,80,160,true
+s,نهنگ,whale,35,100,140,false
+s,باغ پنهان,sg_secret_garden_old,40,0,1800,false
+s,کاروان سرا,kitaro_caravansaray,40,0,1800,false
+s,جاده ابریشم,kitaro_silk_road,30,0,1800,false
+#
+m,0,boatStoryMix,10,قایق سواری آرام,assets/covers/wooden_boat_lake.jpg,1800,قایق سواری آرامش بخش
+~~
+s,پارو زدن,oar,8,60,80,true
+s,باد ملایم,gentle_wind,25,0,1800,true
+s,مرغ دریایی,seagull,10,60,200,false
+s,مرغ دریایی,seagull,10,0,15,false
+s,مرغ دریایی,seagull,15,40,55,false
+s,به کسی که می داند,yanni_to_the_one_who_knows,90,0,1800,false
+s,همه در دریا,dyathon_all_at_sea,100,40,1800,true
+s,نوازش فرشته ای,dg_an_angles_caress,100,60,600,false
+s,رهروی در سرزمین خواب,dg_drifting_in_dreamland,100,80,900,false
+s,زندگی,Living_150_158Hz,15,0,180,true
+#
+m,0,cabinMix,11,کلبه جنگلی,assets/covers/log_cabin_forest.jpg,1800,پناهگاهی در دل طبیعت
+~~
+s,چمنزار,grassland,10,0,20,true
+s,طبیعت ظهر,nature_noon,10,20,50,true
+s,جنگل موسمی,rainforest,10,50,90,true
+s,جنگل موسمی,rainforest,3,90,160,true
+s,آتش هیزم,firewood,50,160,180,true
+s,آلفا سعادت,Alpha_Bliss_107_115Hz,10,0,1800,false
+s,باران,brian_rain,50,0,1800,false
+s,باد,brian_wind,50,0,1800,false
+s,قدم زنی در جنگل,brian_walk_in_the_forest,50,0,1800,false
+#
+m,0,lanternMix,12,فانوس جادویی,assets/covers/old_lantern_light.jpg,1800,ماجرای فانوس در شب تاریک
+~~
+s,باد,wind,45,0,10,true
+s,رم تتا,Theta_Rem_60_66Hz,10,0,1800,true
+s,جیرجیرک,cricket,6,30,40,true
+s,جغد,owl,20,150,200,false
+s,نوئل,richard_clyderman_christmas,50,0,1800,false
+s,بدرقه ی بل,richard_clyderman_le_depart_de_belle,50,0,1800,false
+s,شب تاریک,sg_morketid,50,0,1800,false
+s,سایه روشن های شفق,dg_twilight_fades,50,0,1800,false
+#
+m,0,chocolateMix,13,کارخانه شکلات سازی,assets/covers/chocolate_factory_sweet.jpg,1800,ماجرای شیرین در کارخانه شکلات
+~~
+s,بی خیالی,sg_without_care,50,0,1800,false
+s,سیگما,sg_sigma,50,0,1800,false
+s,سونا,sg_sona,50,0,1800,false
+#
+m,0,spiderMix,14,خاله سوسکه,assets/covers/spider_web_dew.jpg,1800,ماجرای خاله سوسکه در خانه قدیمی
+~~
+s,باران روی پنجره,rain_on_window,10,0,30,true
+s,جنگل تاریک,dark_jungle,35,60,150,false
+s,جیرجیرک,cricket,20,120,240,true
+s,پرنده لون,loon,20,120,240,true
+s,روح دریاچه,kitaro_spirit_of_the_west_lake,40,0,1800,false
+s,رویا,sg_the_dream,0,50,0,1800,false
+s,کانتولونا,sg_cantoluna,0,50,0,1800,false
+#
+m,0,goatMix,15,بزغاله کوچولو,assets/covers/goat_farm_animal.jpg,1800,ماجراهای بزغاله در مزرعه
+~~
+s,مسیر آلفا,Alpha_Path_96_105Hz,50,0,50,true
+s,طبیعت ظهر,nature_noon,50,30,90,true
+s,جریان آب,water_flow,10,60,100,true
+s,پرنده,bird,35,90,200,false
+s,گرگ,wolf,35,200,220,false
+s,باران,rain,40,150,180,false
+s,تابستان,brian_summer,50,0,1800,false
+s,شب مقدس,sg_sacred_night,40,0,1800,false
+s,جهانی دور,dg_worlds_away,50,0,1800,false
+s,نخستین ستاره افق,dg_first_star_in_sky,50,0,1800,false
+#
+m,0,meditationMix,16,مدیتیشن عمیق,assets/covers/yoga_meditation_peace.jpg,1800,مناسب برای تمرین مدیتیشن و یوگا
+~~
+s,امواج آرام دریا,sea_waves_calm2,10,0,70,true
+s,امواج آرام دریا,sea_waves_light_wind,15,70,110,true
+s,رعد و برق,thunder,50,70,100,true
+s,رعد و برق 2,thunder2,50,50,70,false
+s,باران,rain,60,120,140,false
+s,رعد و برق,thunder,40,190,240,false
+s,نویز سفید,white_noise,10,0,150,true
+s,اکریورم,Ecriurem_100_108Hz,7,150,900,true
+s,موج های سبز,sg_greenwaves,60,0,232,false
+s,سرود امید,sg_hymn_to_hope,50,0,356,false
+s,زمین,brian_earth,40,0,496,false
+s,سفر,sg_voyage,30,0,1800,false
+s,نوازش فرشته ای,dg_an_angles_caress,30,0,1800,false
+#
+m,0,nightMix,17,شب آرام,assets/covers/starry_night_sky.jpg,1800,صدای طبیعت در یک شب آرام
+~~
+s,راهب آب,Water_Monk,10,0,10,true
+s,جغد,owl,35,45,90,false
+s,جغد,owl,35,130,160,false
+s,جغد,owl,35,230,260,false
+s,دریای شب,sea_night,5,60,120,true
+s,قورباغه,frog,2,52,65,true
+s,نیمه شب نیلی,dg_midnight_blue,50,0,1800,false
+s,سایه روشن های شفق,dg_gentle_descent,50,0,1800,false
+s,نخستین ستاره افق,dg_first_star_in_sky,50,0,1800,false
+#
+m,0,desertMix,18,بیابان ستاره ها,assets/covers/desert_sand_dunes.jpg,1800,شبی آرام در دل بیابان
+~~
+s,باد,wind,50,0,1800,true
+s,تمرکز آلفا 3,Alpha_Focus_97_104Hz,50,0,1800,false
+s,برف,chris_anes_ambient_echoes_of_the_earth,70,0,1800,true
+s,نور شفابخش,ai_healing_light,50,10,1800,false
+#
+m,0,zenMix,19,باغ ذن,assets/covers/zen_garden_calm.jpg,1800,آرامش در باغ ژاپنی
+~~
+s,آب کوهستان,water_cascade_down_rock,2,20,40,true
+s,چکه آب,dripping,35,60,80,false
+s,پرنده,bird,25,90,200,false
+s,لوتوس,sg_lotus,50,0,1800,false
+#
+m,0,candleMix,20,نور شمع,assets/covers/candle_light_relax.jpg,1800,آرامش در نور شمع
+~~
+s,نویز قهوه\u200Cای,brown_noise,40,0,1800,true
+s,چکه آب,dripping,30,45,150,false
+s,شب طوفانی,sg_stormy_night,30,45,150,false
+s,نیمه شب نیلی,dg_midnight_blue,30,45,150,false
+#
+m,0,tropicalMix,21,ساحل گرمسیری,assets/covers/tropical_beach_palm_trees.jpg,1800,گرمای آفتاب و نسیم دریا
+~~
+s,دریا,sea,10,0,1800,true
+s,باد,wind,20,0,1800,true
+s,مرغ دریایی,seagull,20,30,70,false
+s,نوکتورن,sg_nocturn,40,0,1800,false
+s,آرام و آسوده,dg_safe_and_sound,40,0,1800,false
+#
+m,0,rainforestMix,22,جنگل بارانی استوایی,assets/covers/rainforest_jungle_plants.jpg,1800,تنوع صوتی جنگل های بارانی
+~~
+s,جنگل,forest,10,0,1800,true
+s,پرنده,bird,35,45,60,false
+s,پرنده,bird,15,60,80,false
+s,باران,rain,10,20,35,true
+s,خواهران سونگ,kitaro_soong_sisters,50,0,1800,false
+s,سونا,sg_sona,50,0,1800,false

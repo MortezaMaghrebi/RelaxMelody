@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "ir.zemestoon.relaxmelody",
+  "variantName": "bazaarRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 3,
+      "versionName": "1.1.2-bazaar",
+      "outputFile": "app-bazaar-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
