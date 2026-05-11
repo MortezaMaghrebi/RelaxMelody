@@ -18,7 +18,7 @@ s,نیمه شب نیلی,dg_midnight_blue,100,240,900,false
 s,آداجیو,sg_adagio,35,250,900,false
 s,آکوا,kitaro_aqua,30,270,900,false
 s,پاییز,brian_autumn,30,290,900,false
-s,تمرکز آلفا ۱,Alpha_Focus_107_115Hz,15,0,1200,true
+s,تمرکز آلفا ۱,Alpha_Focus_107_115Hz,7,0,1200,true
 #
 m,0,beachMix,3,ساحل آرام,assets/covers/beach_sea_coast_sunset.jpg,1800,ترکیبی آرامش\u200Cبخش از صدای دریا و مرغان دریایی
 ~~
@@ -208,7 +208,7 @@ s,لوتوس,sg_lotus,50,0,1800,false
 m,0,candleMix,20,نور شمع,assets/covers/candle_light_relax.jpg,1800,آرامش در نور شمع
 ~~
 s,نویز قهوه\u200Cای,brown_noise,40,0,1800,true
-s,چکه آب,dripping,30,45,150,false
+s,چکه آب,dripping,30,45,57,false
 s,شب طوفانی,sg_stormy_night,30,45,150,false
 s,نیمه شب نیلی,dg_midnight_blue,30,45,150,false
 #
