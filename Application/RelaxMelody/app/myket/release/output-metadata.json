@@ -1,18 +1,18 @@
 {
-  "version": 3,
+  "version": 4,
   "artifactType": {
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "ir.zemestoon.relaxmelody",
+  "applicationId": "com.codestoon.relaxmelody",
   "variantName": "myketRelease",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 3,
-      "versionName": "1.1.2-myket",
+      "versionCode": 4,
+      "versionName": "1.1.3-myket",
       "outputFile": "app-myket-release.apk"
     }
   ],

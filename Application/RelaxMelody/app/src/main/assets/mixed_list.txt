@@ -20,7 +20,7 @@ s,آکوا,kitaro_aqua,30,270,900,false
 s,پاییز,brian_autumn,30,290,900,false
 s,تمرکز آلفا ۱,Alpha_Focus_107_115Hz,7,0,1200,true
 #
-m,0,beachMix,3,ساحل آرام,assets/covers/beach_sea_coast_sunset.jpg,1800,ترکیبی آرامش\u200Cبخش از صدای دریا و مرغان دریایی
+m,1,beachMix,3,ساحل آرام,assets/covers/beach_sea_coast_sunset.jpg,1800,ترکیبی آرامش\u200Cبخش از صدای دریا و مرغان دریایی
 ~~
 s,دریای آرام,sea_calm,0,30,0,180,true
 s,مرغ دریایی,seagull,10,30,60,false
@@ -59,7 +59,7 @@ s,آلفا شفاف,Alpha_Lucid_Waves,15,0,1800,true
 s,آلفا مدیتیشن,Alpha_Meditation,15,60,1800,true
 s,مانترا آلفا_تتا,Mantra_Alpha_Theta,15,120,1800,true
 #
-m,0,mountainMix,6,کوهستان مه آلود,assets/covers/mountain_peak_fog.jpg,1800,صدای طبیعت بکر کوهستان
+m,1,mountainMix,6,کوهستان مه آلود,assets/covers/mountain_peak_fog.jpg,1800,صدای طبیعت بکر کوهستان
 ~~
 s,باد,wind,45,0,1800,true
 s,آب کوهستان,water_cascade_down_rock,10,20,1780,true
@@ -87,7 +87,7 @@ s,سرود امید,sg_hymn_to_hope,0,50,0,1800,false
 s,موج های سبز,sg_greenwaves,0,50,0,1800,false
 s,دوئت,sg_duo,0,50,0,1800,false
 #
-m,0,divingStoryMix,9,ماجرای غواصی,assets/covers/scuba_diving_ocean.jpg,1800,سفر به اعماق اقیانوس
+m,1,divingStoryMix,9,ماجرای غواصی,assets/covers/scuba_diving_ocean.jpg,1800,سفر به اعماق اقیانوس
 ~~
 s,باد ملایم,gentle_wind,10,0,15,true
 s,امواج دریا,sea_waves,10,15,30,true
@@ -123,7 +123,7 @@ s,باران,brian_rain,50,0,1800,false
 s,باد,brian_wind,50,0,1800,false
 s,قدم زنی در جنگل,brian_walk_in_the_forest,50,0,1800,false
 #
-m,0,lanternMix,12,فانوس جادویی,assets/covers/old_lantern_light.jpg,1800,ماجرای فانوس در شب تاریک
+m,1,lanternMix,12,فانوس جادویی,assets/covers/old_lantern_light.jpg,1800,ماجرای فانوس در شب تاریک
 ~~
 s,باد,wind,45,0,10,true
 s,رم تتا,Theta_Rem_60_66Hz,10,0,1800,true
@@ -150,7 +150,7 @@ s,روح دریاچه,kitaro_spirit_of_the_west_lake,40,0,1800,false
 s,رویا,sg_the_dream,0,50,0,1800,false
 s,کانتولونا,sg_cantoluna,0,50,0,1800,false
 #
-m,0,goatMix,15,بزغاله کوچولو,assets/covers/goat_farm_animal.jpg,1800,ماجراهای بزغاله در مزرعه
+m,1,goatMix,15,بزغاله کوچولو,assets/covers/goat_farm_animal.jpg,1800,ماجراهای بزغاله در مزرعه
 ~~
 s,مسیر آلفا,Alpha_Path_96_105Hz,50,0,50,true
 s,طبیعت ظهر,nature_noon,50,30,90,true
@@ -179,7 +179,7 @@ s,زمین,brian_earth,40,0,496,false
 s,سفر,sg_voyage,30,0,1800,false
 s,نوازش فرشته ای,dg_an_angles_caress,30,0,1800,false
 #
-m,0,nightMix,17,شب آرام,assets/covers/starry_night_sky.jpg,1800,صدای طبیعت در یک شب آرام
+m,1,nightMix,17,شب آرام,assets/covers/starry_night_sky.jpg,1800,صدای طبیعت در یک شب آرام
 ~~
 s,راهب آب,Water_Monk,10,0,10,true
 s,جغد,owl,35,45,90,false
@@ -212,7 +212,7 @@ s,چکه آب,dripping,30,45,57,false
 s,شب طوفانی,sg_stormy_night,30,45,150,false
 s,نیمه شب نیلی,dg_midnight_blue,30,45,150,false
 #
-m,0,tropicalMix,21,ساحل گرمسیری,assets/covers/tropical_beach_palm_trees.jpg,1800,گرمای آفتاب و نسیم دریا
+m,1,tropicalMix,21,ساحل گرمسیری,assets/covers/tropical_beach_palm_trees.jpg,1800,گرمای آفتاب و نسیم دریا
 ~~
 s,دریا,sea,10,0,1800,true
 s,باد,wind,20,0,1800,true

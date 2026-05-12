@@ -43,6 +43,16 @@
                 android:layout_marginRight="20dp"
                 android:id="@+id/ivComment"
                 />
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_alignTop="@id/tvTitleMixes"
+                android:layout_alignBottom="@+id/tvTitleMixes"
+                android:layout_toLeftOf="@id/ivComment"
+                android:src="@drawable/apps_30px"
+                android:layout_marginRight="5dp"
+                android:id="@+id/ivApps"
+                />
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -54,7 +64,7 @@
                 android:textColor="#a0a0f0"
                 android:layout_marginLeft="70dp"
                 android:layout_marginRight="70dp"
-                android:textSize="30dp"
+                android:textSize="27dp"
                 android:layout_marginBottom="10dp"/>
 
             <!-- RecyclerView for Sounds -->

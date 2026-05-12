@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "ir.zemestoon.relaxmelody",
+  "applicationId": "com.codestoon.relaxmelody",
   "variantName": "bazaarRelease",
   "elements": [
     {

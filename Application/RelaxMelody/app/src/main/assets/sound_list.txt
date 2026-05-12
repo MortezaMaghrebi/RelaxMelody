@@ -187,15 +187,4 @@ wave,مانترا آلفا_تتا,t.png,assets/wave/Mantra_Alpha_Theta.mp3,20,0,
 wave,فولیا تتا,t.png,assets/wave/Theta_Follia_41_45Hz.mp3,20,0,0
 wave,رم تتا,t.png,assets/wave/Theta_Rem_60_66Hz.mp3,20,0,0
 wave,راهب آب,water.png,assets/wave/Water_Monk.mp3,20,0,0
-story,داستان چمنزار,tree.png,assets/story/story_grassland.mp3,100,0,0
 story,داستان قطب شمال,north.png,assets/story/story_north_pole.mp3,100,0,0
-story,داستان غواصی,cliff.png,,100,0,0
-story,داستان قایق سواری,music.png,,100,0,0
-story,داستان دریاچه,lake.png,,100,0,0
-story,داستان بزغاله,music.png,,100,0,0
-story,داستان کفش آهنی,iron.png,,100,0,0
-story,خاله سوسکه,spider.png,,100,0,0
-story,خاله پیرزن,old_woman.png,,100,0,0
-story,کارخانه شکلات سازی,factory.png,,100,0,0
-story,فانوس,lantern.png,,100,0,0
-story,کلبه آرامش,cabin.png,,100,0,0
